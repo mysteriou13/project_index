@@ -1,0 +1,65 @@
+header{
+
+    background-color: red;
+    height: 16%;
+
+
+}
+
+main{
+
+    background-color: blue;
+    
+    height: 100%;
+  }
+
+  #div_box{
+
+    background-color: purple;
+    height: 49%;
+    display: flex;
+
+  }
+
+  #hebergement{
+
+    background-color: green;
+width: 56%;
+
+  }
+
+  #populaire{
+
+    background-color: brown;
+width: 42%;
+margin-left: 2%;
+
+  }
+
+  #activiter{
+
+    background-color: blueviolet;
+    height: 46%;
+  
+}
+
+#div_nav{
+
+  display: flex;
+ justify-content: space-between;
+
+}
+
+nav{
+
+  background-color: orange;
+width: 42%;
+
+}
+
+  footer{
+
+    background-color: orange;
+   height: 14%;
+
+  }
