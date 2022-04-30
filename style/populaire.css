@@ -1,0 +1,126 @@
+.box_populaire{
+
+
+  height: 69vh;
+  position: relative;
+  left: 0%;
+ 
+}
+
+.image_populaire{
+
+  width: 16vh;
+  height: 16vh;
+  border-top-left-radius: 14px 14px;
+  border-bottom-left-radius: 14px 14px;
+  margin-left: 2%;
+
+}
+
+.div_image_populaire{
+
+  height: 100%;
+
+}
+
+.card_populaire{
+
+  background-color: white;
+  margin-left: 4%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-radius: 14px;
+  height: 16vh;
+  margin-right: 4%;
+  margin-bottom: 11%;
+  
+}
+
+.position_text_populaire{
+
+  position: relative;
+right: -6%;
+
+}
+
+.position_text_populaire:hover{
+
+  position: relative;
+right: -6%;
+ color:blue;
+
+}
+
+.position_start_populaire{
+
+  position: relative;
+  bottom: -24%;
+
+}
+
+.position_text_nuit_populaire{
+
+  position: relative;
+  top: 10%;
+
+}
+
+.div_text_populaire{
+
+height: 50%;
+margin-top: 6%;
+
+
+}
+
+
+.div_text_populaire:hover{
+
+  height: 50%;
+  margin-top: 6%;
+  
+  
+  }
+
+.titre_populaire{
+
+  display: flex;
+  justify-content: space-between;
+  width: 86%;
+  left: 8%;
+  position: relative;
+  left: 8%;
+  margin-top: 8%;
+  margin-bottom: 6%;
+
+}
+
+.text_populaire{
+
+  font-weight: bold;
+font-size: 1.2em;
+
+}
+
+.taille_icone_populaire{
+
+  font-size: 1.5em;
+  
+  }
+  
+  
+  .populaire{
+  
+    background-color: #F2F2F2;
+  
+    width: 59%;
+  
+    margin-left: 1%;
+  
+  
+  padding-bottom: 2%;
+  
+  border: 1px solid #F2F2F2;
+  border-radius: 28px;
+  
+  }

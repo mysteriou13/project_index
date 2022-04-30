@@ -1,0 +1,63 @@
+footer{
+
+  background-color: #F2F2F2;
+  margin-top: 4%;
+
+  width: 105%;
+  display: flex;
+  position: relative;
+  left: -2%;
+
+
+  }
+
+  .div_1_footer{
+
+    position: relative;
+  left: 4%;
+
+  }
+
+  @media screen and (-webkit-min-device-pixel-ratio:0) and (min-resolution:.001dpcm) {
+  
+
+footer{
+
+  position: absolute;
+  top: 176%;
+}
+
+}   
+
+  
+
+  @-moz-document url-prefix() {
+
+    
+
+    footer{
+
+      position: absolute;
+      top: 184%;
+    
+    }    
+
+  }
+
+    
+
+
+  .div_2_footer{
+
+    position: relative;
+left: 22%;
+
+  }
+  
+  .div_3_footer{
+
+  position: relative;
+   left: 48%;
+
+  }
+  

@@ -1,0 +1,57 @@
+header{
+
+  display: flex;
+  justify-content: space-between;
+  width: 97%;
+
+}
+
+nav{
+
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  left: 3%;
+
+}
+
+.text_header{
+
+  margin-left: 3%;
+  margin-bottom: 1%;
+  margin-top: 1%;
+
+
+}
+
+.image_titre{
+
+margin-left: 5vh;
+
+}
+
+.image_reservia{
+
+width: 15vh;
+margin-top: 12%;
+
+}
+
+
+.flex_nav{
+
+  display: flex;
+list-style-type: none;
+position: relative;
+top: -25%;
+
+}
+
+
+.rechercher{
+
+  width: 97%;
+
+}
+
+

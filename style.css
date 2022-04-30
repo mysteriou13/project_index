@@ -1,7 +1,11 @@
+body{
+
+
+}
 header{
 
     background-color: red;
-    height: 16%;
+    height: 24%;
 
 
 }
@@ -24,15 +28,15 @@ main{
   #hebergement{
 
     background-color: green;
-width: 56%;
+    width: 74%;
+    margin-right: 2%;
 
   }
 
   #populaire{
 
     background-color: brown;
-width: 42%;
-margin-left: 2%;
+    width: 24%;
 
   }
 
@@ -48,12 +52,62 @@ margin-left: 2%;
   display: flex;
  justify-content: space-between;
 
+ background-color: blue;
+height: 34%;
+
+}
+
+#menu_nav{
+
+  display: flex;
+  justify-content: space-between;
+
+  height: 100%;
+
+  background-color: white;
+
+}
+
+#bordure_hebergement{
+
+  border-top: 3px solid black;
+  width: 126%;
+  margin-right: -46%;
+
+  position: relative;
+  left: -17%;
+
+
+}
+
+
+.text_nav{
+
+  
+}
+
+.flex_box_hebergement{
+
+  display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
 }
 
 nav{
 
   background-color: orange;
-width: 42%;
+width: 24%;
+
+}
+
+ul{
+
+  display: flex;
+  background-color: purple;
+  justify-content: space-between;
+  list-style: none;
 
 }
 
