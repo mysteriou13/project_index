@@ -100,9 +100,10 @@ height: 34%;
 
   display: flex;
   justify-content: space-between;
-  background-color: purple;
-  width: 73%;
-  height: 32%;
+ 
+  width: 76%;
+  height: 46%;
+  font-size: 272%;
 }
 
 .div_filtre{
@@ -110,11 +111,21 @@ height: 34%;
   display: flex;
 
   background-color: orange;
-  width: 24%;
+
   border: 1px solid;
 
   border-radius: 30px;
 
+  padding-right: 2%;
+
+
+}
+
+.text_filtre{
+  
+  padding-left: 3%;
+
+  padding-top: 6px;
 
 }
 
