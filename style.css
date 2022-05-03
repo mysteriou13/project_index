@@ -168,6 +168,16 @@ border-bottom-right-radius: 13%;
 color: white;
 font-weight: bold;
 
+display: block;
+
+}
+
+.search_loupe{
+
+  width: 2%;
+border-radius: 28%;
+
+display:  none;
 
 }
 
@@ -180,8 +190,8 @@ input::placeholder {
 .position_icone_map{
 
   position: relative;
-left: 27%;
-top: 24%;
+  left: 34%;
+  top: 26%;
 
 }
 
