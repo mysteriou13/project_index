@@ -147,7 +147,6 @@ height: 34%;
 
   display: flex;
 
-  background-color: orange;
 
   border: 1px solid;
 
@@ -155,6 +154,11 @@ height: 34%;
 
   padding-right: 2%;
 
+}
+
+.div_filtre:hover{
+
+  background-color: #deebff;
 
 }
 
