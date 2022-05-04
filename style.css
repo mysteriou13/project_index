@@ -28,7 +28,7 @@ main{
 
     width: 29%;
 position: relative;
-top: 46%;
+top: 5%;
 
   }
 
@@ -229,8 +229,9 @@ input::placeholder {
 
 nav{
 
-  background-color: orange;
-width: 24%;
+  width: 24%;
+
+  height: 63%;
 
 }
 
