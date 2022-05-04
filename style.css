@@ -1,6 +1,8 @@
 .body{
 
-  margin:1%;
+  margin-left: 2%;
+  margin-right: 2%;
+  
 
 }
 
@@ -9,7 +11,7 @@
 
 header{
 
-    background-color: red;
+  
     height: 28%;
 
 
@@ -21,6 +23,14 @@ main{
     
     height: 100%;
   }
+
+.link{
+
+  background-color: transparent;
+text-decoration: none;
+color: black;
+
+}
 
   #div_box{
 
@@ -57,7 +67,7 @@ main{
   display: flex;
  justify-content: space-between;
 
- background-color: blue;
+
 height: 34%;
 
 }
@@ -73,9 +83,9 @@ height: 34%;
 
 }
 
-#bordure_hebergement{
+.bordure_hebergement{
 
-  border-top: 3px solid black;
+  border-top: 3px solid white;
   width: 126%;
   margin-right: -46%;
 
@@ -85,6 +95,20 @@ height: 34%;
 
 }
 
+
+.flex_box_hebergement:hover> .bordure_hebergement{
+  
+  border-top: 3px solid blue;
+
+}
+
+
+
+.flex_box_hebergement:hover .link{
+  
+  color:blue;
+
+}
 
 #filtre{
 
