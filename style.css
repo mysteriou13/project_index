@@ -140,7 +140,7 @@ height: 34%;
  
   width: 76%;
   height: 37%;
-  font-size: 272%;
+  font-size: 212%;
 }
 
 .div_filtre{
@@ -172,9 +172,12 @@ height: 34%;
 
 .bordure_icone{
 
-  border: 3px solid blue;
+  border-radius: 30px;
+  background-color: #deebff;
+  width: 60px;
 
-border-radius: 30px;
+  position: relative;
+left: -2%;
 
 }
 
@@ -252,5 +255,30 @@ ul{
 
     background-color: orange;
    height: 14%;
+
+  }
+
+  .position_icone{
+
+    font-size: 22px;
+    position: relative;
+    top: 31%;
+    left: 26%;
+
+
+  }
+
+  .color_icone{
+
+    color:blue;
+
+  }
+
+  .position_icone_fam{
+
+    position: relative;
+   left: 25%;
+   top:21%;
+
 
   }
