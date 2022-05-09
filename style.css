@@ -656,3 +656,23 @@ height: 100%;
   height: 70%;
 
 }
+
+.box_dame{
+
+  border-radius: 7%;
+
+  height:46%;
+}
+
+.box_champs{
+
+  height: 46%;
+  border-radius: 7%;
+
+}
+
+.box_image_champs{
+
+  height: 80%;
+
+}
