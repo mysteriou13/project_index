@@ -580,15 +580,34 @@ width: 36%;
 
   border-radius: 3%;
 
+}
+
+.box_sadown{
+
   box-shadow: 0px 0px 16px grey;
 
 }
 
-.box_image_acitivter{
+.box_fort{
+
+height: 43%;
+
+border-radius: 3%;
+
+}
+
+.box_image_port{
 
 height: 90%;
 
 }
+
+.box_image_fort{
+
+  height: 80%;
+  
+  }
+
 
 .image_port{
 
