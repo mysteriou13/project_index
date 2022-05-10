@@ -272,8 +272,45 @@ ul{
 
   footer{
 
-    background-color: orange;
-   height: 14%;
+    background-color: #f2f2f2;
+
+width: 104%;
+margin-left: 0%;
+position: relative;
+left: -2%;
+
+display: flex;
+   
+
+  }
+
+
+  .div_1_footer{
+
+width: 33%;
+
+  }
+
+
+  .titre_div_1_footer{
+
+    font-weight: bold;
+  
+
+  }
+
+  .div_2_footer{
+
+  
+width: 33%;
+
+  }
+
+
+  .div_3_footer{
+
+  
+width: 33%;
 
   }
 
@@ -578,7 +615,7 @@ width: 36%;
   width: 24%;
   
 
-  border-radius: 3%;
+  border-radius: 45px;
 
 }
 
@@ -592,7 +629,7 @@ width: 36%;
 
 height: 59%;
 
-border-radius: 3%;
+border-radius: 44px;
 
 }
 
@@ -611,11 +648,20 @@ height: 90%;
 
 .image_port{
 
-  width:100%;
+  width: 100%;
   height: 100%;
+  border-top-left-radius: 45px;
+  border-top-right-radius: 45px;
 
-  border-top-left-radius: 3%;
-  border-top-right-radius: 3%;
+}
+
+.image_frioul{
+
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+
 
 }
 
@@ -646,9 +692,17 @@ height: 100%;
 .box_frioul{
 
   height:33%;
+  border-radius: 24px;
+
+}
+
+.box_image_frioul{
 
   border-radius: 3%;
+  height: 70%;
+
 }
+
 
 .box_image_frioul{
 
@@ -659,7 +713,7 @@ height: 100%;
 
 .box_dame{
 
-  border-radius: 7%;
+  border-radius: 44px;
 
   height:46%;
 }
@@ -667,7 +721,7 @@ height: 100%;
 .box_champs{
 
   height: 46%;
-  border-radius: 7%;
+  border-radius: 44px;
 
 }
 
@@ -676,3 +730,4 @@ height: 100%;
   height: 80%;
 
 }
+
