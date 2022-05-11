@@ -509,9 +509,9 @@ height: 25px;
 
 .icone_pop{
 
-  height: 100%;
   width: 100%;
 
+  padding-top: 77%;
 
 }
 
@@ -526,7 +526,7 @@ height: 25px;
 
 .taill_image_pop{
 
-  width:5%;
+  width:7%;
   
 }
 
