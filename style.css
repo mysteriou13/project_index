@@ -96,7 +96,6 @@ color: black;
 
   height: 100%;
 
-  background-color: white;
 
 }
 
@@ -107,8 +106,7 @@ color: black;
   margin-right: -46%;
 
   position: relative;
-  left: -17%;
-
+  
 
 }
 
@@ -141,6 +139,12 @@ color: black;
     flex-direction: column;
     justify-content: space-between;
 
+    height: 137%;
+}
+
+.flex_box_nav{
+  
+  display: flex; width: 100%; justify-content: space-around;
 
 }
 
@@ -279,7 +283,7 @@ input::placeholder {
 
 nav{
 
-  width: 24%;
+  width: 39%;
 
   height: 63%;
 
