@@ -14,7 +14,7 @@
 header{
 
   
-    height: 43%;
+    height: 50%;
 
 
 }
@@ -149,9 +149,10 @@ color: black;
   display: flex;
   justify-content: space-between;
  
-  width: 63%;
+  width: 100%;
   height: 25%;
-  font-size: 150%;
+  font-size: 190%;
+
 }
 
 .div_filtre{
@@ -169,6 +170,8 @@ color: black;
 
   font-weight: bold;
 
+  margin-right: 12%;
+
 }
 
 .div_filtre:hover{
@@ -179,9 +182,28 @@ color: black;
 
 .text_filtre{
   
-  padding-left: 2%;
-  padding-top: 4%;
-  padding-bottom: 4%;
+  padding-bottom: 3%;
+  padding-top: 5%;
+  
+}
+
+
+.flex_box_filtre{
+
+  display: flex; width: 100%;
+
+}
+
+.flex_box_filtre_marge{
+
+  display:flex; margin-right: 8%;
+
+}
+
+.padding_fam{
+
+  padding-top: 9%;
+
 
 }
 
@@ -209,7 +231,7 @@ border-bottom-left-radius: 29%;
 .div_box_recherche{
 
   display: flex;
-  height: 13%;
+  height: 10%;
 
   margin-bottom: 2%;
 
@@ -225,6 +247,9 @@ color: white;
 font-weight: bold;
 
 display: block;
+
+padding-right: 1%;
+padding-left: 1%;
 
 }
 
@@ -247,7 +272,8 @@ input::placeholder {
 
   position: relative;
   left: 34%;
-  top: 26%;
+  left: 37%;
+  top: 32%;
 
 }
 
@@ -331,8 +357,8 @@ width: 33%;
   .position_icone_fam{
 
     position: relative;
-   left: 25%;
-   top:21%;
+    left: 32%;
+    top: 25%;
 
 
   }
@@ -348,8 +374,14 @@ width: 33%;
     border:none;
     border-top: 1px solid #f2f2f2;
 border-bottom: 1px solid #f2f2f2;
+width: 14%;
+
+left: 30%;
+    top: 25%;
 
   }
+
+
 
   .titre_div_filtre{
 
@@ -357,6 +389,12 @@ border-bottom: 1px solid #f2f2f2;
     height: 12%;
     position: relative;
     top: 12px;
+
+
+    font-weight: bold;
+    font-size: 1.3em;
+
+    margin-right: 2%;
 
   }
 
@@ -511,7 +549,7 @@ height: 25px;
 
   width: 100%;
 
-  padding-top: 77%;
+  padding-top: 46%;
 
 }
 
@@ -520,7 +558,7 @@ height: 25px;
   display: flex;
   justify-content: space-between;
 
-  margin-bottom:6%;
+  margin-bottom:2%;
 
 }
 
@@ -541,7 +579,7 @@ height: 25px;
   display: flex;
   height: 28%;
   background-color: white;
-  margin-bottom: 7%;
+  margin-bottom: 5%;
   border-radius: 6%;
 
 }
