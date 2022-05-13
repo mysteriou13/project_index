@@ -14,7 +14,7 @@
 header{
 
   
-    height: 50%;
+    height: 52vh;
 
 
 }
@@ -46,7 +46,7 @@ color: black;
   #div_box{
 
  
-    height: 72%;
+    height: 83vh;
     display: flex;
     margin-bottom: 3%;
 
@@ -74,7 +74,7 @@ color: black;
 
   #activiter{
 
-    height: 60%;
+    height: 68vh;
     margin-bottom: 3%;
   
 }
@@ -84,7 +84,7 @@ color: black;
   display: flex;
  justify-content: space-between;
 
- height:20%;
+ height:10vh;
 
 
 }
@@ -154,7 +154,7 @@ color: black;
   justify-content: space-between;
  
   width: 100%;
-  height: 25%;
+  height: 6vh;
   font-size: 190%;
 
 }
@@ -235,7 +235,7 @@ border-bottom-left-radius: 29%;
 .div_box_recherche{
 
   display: flex;
-  height: 10%;
+  height: 6vh;
 
   margin-bottom: 2%;
 
@@ -346,7 +346,7 @@ width: 33%;
 
     font-size: 22px;
     position: relative;
-    top: 31%;
+    top: 15%;
     left: 26%;
 
 
@@ -361,7 +361,7 @@ width: 33%;
   .position_icone_fam{
 
     position: relative;
-    left: 32%;
+    left: 25%;
     top: 25%;
 
 
@@ -441,7 +441,18 @@ height: 25px;
 
     display: flex;
 
-    height: 43%;
+    height: 30vh;
+
+    margin-bottom: 4%;
+  }
+
+  .line_box_2{
+
+    display: flex;
+
+    height: 30vh;
+
+    
   }
 
   .card_hergement{
@@ -478,15 +489,19 @@ height: 25px;
   }
 
   .afficher_plus{
-    
-    margin-left: 3%;
 
+    position: relative;
+top: 3vh;
+left: 5vh;
+font-weight: bold;
+    
+    
   }
 
   .card_image_hebergement{
 
 
-    height: 60%;
+    height: 57%;
     margin: 3%;
   }
 
@@ -675,6 +690,12 @@ width: 36%;
   
 
   border-radius: 45px;
+
+}
+
+.div_box_image_act{
+
+  height: 68vh;
 
 }
 
