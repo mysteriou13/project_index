@@ -672,6 +672,11 @@ width: 36%;
   margin-top:7%;
 }
 
+
+
+
+
+
 .flex_activiter{
   
   display: flex;
@@ -683,12 +688,15 @@ width: 36%;
 
 }
 
+
+
 .box_activier{
 
   width: 24%;
-  
 
   border-radius: 45px;
+
+
 
 }
 

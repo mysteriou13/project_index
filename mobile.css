@@ -1,0 +1,149 @@
+@media all  and (max-width: 667px){
+
+
+    #div_box {
+        height: 100%;
+        display: flex;
+        margin-bottom: 3%;
+        flex-direction: column-reverse;
+      }
+
+
+      #populaire {
+        background-color: #F2F2F2;
+        width: 100%;
+        border-radius: 18px;
+      }
+
+      .box_titre_heberement {
+        width: 89%;
+        margin-left: 6%;
+        position: relative;
+        top: 4%;
+        font-weight: bold;
+        height: 94%;
+      }
+
+      .div_populaire {
+        display: flex;
+        height: 19vh;
+        background-color: white;
+        margin-bottom: 5%;
+        border-radius: 6%;
+      }
+
+
+      .line_box {
+        display: block;
+        height: 100%;
+        margin-bottom: 4%;
+      }
+
+
+      .line_box_2 {
+        display: block;
+        height: 100%;
+        margin-bottom: 4%;
+      }
+
+
+      #hebergement {
+        background-color: #F2F2F2;
+        width: 100%;
+        margin-right: 2%;
+        padding-bottom: 3%;
+        border-radius: 2%;
+      }
+
+
+
+      .card_hergement {
+        background-color: white;
+        width: 92%;
+        margin-left: 3%;
+        height: 38vh;
+        border-radius: 5%;
+        box-shadow: 0px 0px 16px grey;
+      }
+
+
+      
+      .box_activier {
+        width: 96%;
+        border-radius: 45px;
+        margin-left: 2%;
+      }
+
+
+      .flex_activiter{
+  
+        display: block;
+        width: 100%;
+        justify-content: space-between;
+        margin-bottom: 3%;
+      
+        height: auto;
+      
+      }
+
+      .box_activier {
+        width: 96%;
+        border-radius: 45px;
+        margin-left: 2%;
+      }
+
+      .afficher_plus {
+        position: relative;
+        top: 0vh;
+        left: 5vh;
+        font-weight: bold;
+      }
+
+      .div_box_image_act {
+        height: 34vh;
+      }
+
+
+      .box_image_port {
+        height: 78%;
+      }
+
+      .box_fort {
+        height: 34vh;
+        border-radius: 44px;
+        margin-bottom: 5%;
+      }
+
+
+      .box_frioul {
+        height: 34vh;
+        border-radius: 24px;
+      }
+
+      .box_image_frioul {
+        border-radius: 3%;
+        height: 80%;
+      }
+
+      .box_dame {
+        border-radius: 44px;
+        height: 34vh;
+        margin-bottom: 5%;
+      }
+
+      .box_champs {
+        height: 34vh;
+        border-radius: 44px;
+      }
+      
+
+      .box_activier {
+        width: 96%;
+        border-radius: 45px;
+        margin-left: 2%;
+        margin-bottom: 5%;
+      }
+
+      
+
+}
