@@ -1,5 +1,10 @@
 @media all  and (max-width: 667px){
 
+  header{
+
+    height:83vh;
+
+  }
 
     #div_box {
         height: 100%;
@@ -12,7 +17,7 @@
       #populaire {
         background-color: #F2F2F2;
         width: 100%;
-        border-radius: 18px;
+        border-radius: 0px;
       }
 
       .box_titre_heberement {
@@ -48,7 +53,7 @@
 
 
       #hebergement {
-        background-color: #F2F2F2;
+        background-color: white;
         width: 100%;
         margin-right: 2%;
         padding-bottom: 3%;
@@ -159,4 +164,274 @@
         border-top-right-radius: 29px;
       }
 
-}
+
+      .flex_box_nav {
+        display: flex;
+        width: auto;
+        justify-content: space-around;
+      }
+
+
+      nav {
+      
+        width: auto;
+        height: 63%;
+     
+      }
+
+      .flex_box_nav{
+
+          display: flex;
+          width: 70%;
+          margin-right: 4%;
+          justify-content: space-around;
+          position: relative;
+          top: 10%;
+          left: 0%;
+              
+      }
+  
+      .flex_box_hebergement_act {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 137%;
+        position: relative;
+        left: 34%;
+      }
+
+      .pos__box_ins {
+        
+        position: relative;
+        top: -80%;
+        left: 53%;
+
+      }
+
+      #div_nav {
+        display: block;
+        justify-content: space-between;
+        height: 10vh;
+        position: relative;
+        left: 7%;
+      }
+
+      .flex_box_hebergement {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+        height: 55%;
+     
+      }
+
+
+      .box_info {
+        
+        display: flex;
+        position: relative;
+        top: 29vh;
+        position: relative;
+
+
+        left: 3%;
+
+
+      }
+
+      .flex_box_filtre_marge {
+        
+        display: flex;
+        margin-right: 8%;
+        position: relative;
+        top: 7vh;
+        left: -4%;
+        width: 100%;
+          height: 100%;
+
+      }
+
+
+      .flex_box_filtre {
+        display: block;
+        width: 100%;
+      }
+
+
+      .box_filtre {
+        font-size: 2.5vh;
+      }
+
+      .div_filtre_2{
+
+        display: block;
+        position: relative; top: 10vh;
+      
+      }
+
+
+      .div_filtre {
+        display: flex;
+        border: 1px solid #d9d9d9;
+        border-radius: 30px;
+        padding-right: 2%;
+        font-weight: bold;
+        margin-right: 0%;
+        height: 6vh;
+      }
+
+      .width_filtre_eco{
+
+  
+        display: flex;
+        border: 1px solid #d9d9d9;
+        border-radius: 30px;
+        padding-right: 2%;
+        font-weight: bold;
+        margin-right: 0%;
+        height: 100%;
+        width: 49%;
+      
+    }
+
+    .width_filtre_fam{
+
+      position: relative;
+left: 3%;
+width:42%;
+height: 100%;
+
+
+    }
+
+
+    .text_filtre {
+      padding-bottom: 3%;
+      padding-top: 6%;
+      padding-left: 2%;
+    }
+
+    .width_filtre_rom{
+
+      width: 50%;
+      height: 100%;
+      position: relative;
+      left: -3%;
+
+
+    }
+
+    .width_filtre_ani{
+
+      width: 31vh;
+      position: relative;
+      top: 3vh;
+    }
+    
+
+    .position_icone {
+      font-size: 22px;
+      position: relative;
+      top: 29%;
+      left: 26%;
+    }
+
+    .position_icone_fam {
+      position: relative;
+      left: 30%;
+      top: 28%;
+    }
+
+
+    .champ_text{
+
+      border:none;
+      border-top: 1px solid #f2f2f2;
+  border-bottom: 1px solid #f2f2f2;
+  width: 67%;
+  
+  left: 30%;
+      top: 25%;
+  
+    }
+  
+
+    .div_icone_map {
+      background-color: #f2f2f2;
+      width: 11%;
+      border-top-left-radius: 29%;
+      border-bottom-left-radius: 29%;
+    }
+
+    .button_search {
+      background-color: blue;
+      border: none;
+      border-top-right-radius: 14%;
+      border-bottom-right-radius: 13%;
+      color: white;
+      font-weight: bold;
+      display: none;
+      padding-right: 1%;
+      padding-left: 1%;
+    }
+
+    .search_loupe {
+      width: 13%;
+      border-radius: 28%;
+      display: block;
+    }
+
+
+    .haut_titre{
+
+      font-size: 87%;
+margin-left: 3%;
+
+    }
+
+    .sous_titre{
+
+      position: relative;
+     left: 3%;
+     top: -23px;
+
+
+    }
+
+    .titre_div_filtre {
+      width: 4%;
+      height: 12%;
+      position: relative;
+      top: 12px;
+      font-weight: bold;
+      font-size: 1.3em;
+      margin-right: 2%;
+      position: relative;
+      left: 3%;
+    }
+
+    .div_box_recherche {
+      display: flex;
+      height: 6vh;
+      margin-bottom: 2%;
+      position: relative;
+      left: 3%;
+    }
+
+    .image_logo{
+  
+    position: relative;
+     left: -4%;
+
+    }
+
+    .font_size_h1{
+
+      font-size: 1.5em;
+
+      padding-top: 6%;
+      padding-bottom: 6%;
+
+    }
+
+      }
+

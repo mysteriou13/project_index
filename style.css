@@ -101,7 +101,6 @@ color: black;
 
 .bordure_hebergement{
 
-  border-top: 3px solid white;
   width: 126%;
   margin-right: -46%;
 
@@ -136,17 +135,33 @@ color: black;
 .flex_box_hebergement{
 
   display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 137%;
 
-    height: 137%;
+
 }
+
+
+.flex_box_hebergement_act{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 137%;
+  position: relative;
+  left: -8%;
+  
+}
+
 
 .flex_box_nav{
   
   display: flex; width: 100%; justify-content: space-around;
 
 }
+
+
 
 .box_filtre{
 
@@ -156,6 +171,15 @@ color: black;
   width: 100%;
   height: 6vh;
   font-size: 190%;
+
+}
+
+
+
+
+.div_filtre_2{
+
+  display: flex; 
 
 }
 
@@ -697,6 +721,15 @@ width: 36%;
   border-radius: 45px;
 
 
+
+}
+
+
+.flex_box_nav{
+
+  display: flex;
+  margin-right: 4%;
+  justify-content: space-around;
 
 }
 
