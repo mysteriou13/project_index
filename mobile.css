@@ -2,7 +2,7 @@
 
   header{
 
-    height:83vh;
+    height:91vh;
 
   }
 
@@ -229,7 +229,7 @@
         
         display: flex;
         position: relative;
-        top: 29vh;
+        top: 31vh;
         position: relative;
 
 
@@ -243,7 +243,7 @@
         display: flex;
         margin-right: 8%;
         position: relative;
-        top: 7vh;
+        top: 9vh;
         left: -4%;
         width: 100%;
           height: 100%;
@@ -264,7 +264,9 @@
       .div_filtre_2{
 
         display: block;
-        position: relative; top: 10vh;
+        position: relative;
+        
+        top: 12vh;
       
       }
 
@@ -336,9 +338,12 @@ height: 100%;
     }
 
     .position_icone_fam {
+
       position: relative;
-      left: 30%;
-      top: 28%;
+      left: 34%;
+      top: 24%;
+      font-size: 1.2em;
+  
     }
 
 
@@ -357,7 +362,7 @@ height: 100%;
 
     .div_icone_map {
       background-color: #f2f2f2;
-      width: 11%;
+      width: 14%;
       border-top-left-radius: 29%;
       border-bottom-left-radius: 29%;
     }
@@ -411,10 +416,10 @@ margin-left: 3%;
 
     .div_box_recherche {
       display: flex;
-      height: 6vh;
+      height: 8vh;
       margin-bottom: 2%;
       position: relative;
-      left: 3%;
+      left: 2%;
     }
 
     .image_logo{
@@ -432,6 +437,24 @@ margin-left: 3%;
       padding-bottom: 6%;
 
     }
+
+
+
+
+.text_info {
+  position: relative;
+  top: 5px;
+  left: 1%;
+  font-size: 1.1em;
+}
+
+
+.div_info {
+  border: 2px solid #d9d9d9;
+  width: 28px;
+  border-radius: 67%;
+  height: 22px;
+}
 
       }
 
