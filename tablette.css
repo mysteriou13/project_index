@@ -1,4 +1,4 @@
-@media all  and (max-width: 667px){
+@media all  and (min-width: 700px)  and (max-width: 900px)   {
 
   .body {
   
@@ -255,14 +255,14 @@
         justify-content: space-between;
         height: 137%;
         position: relative;
-        left: 34%;
+        left: 7%;
       }
 
       .pos__box_ins {
         
         position: relative;
-        top: -80%;
-        left: 53%;
+        top: 8%;
+        left: 75%;
 
       }
 
@@ -321,7 +321,7 @@
 
       .div_filtre_2{
 
-        display: block;
+        display: flex;
         position: relative;
         
         top: 12vh;
@@ -337,6 +337,7 @@
         font-weight: bold;
         margin-right: 0%;
         height: 6vh;
+        width: 36vh;
       }
 
       .width_filtre_eco{
@@ -372,7 +373,7 @@ height: 100%;
 
     .width_filtre_rom{
 
-      width: 50%;
+      width: 60vh;
       height: 100%;
       position: relative;
       left: -3%;
@@ -381,10 +382,12 @@ height: 100%;
     }
 
     .width_filtre_ani{
-
+      
       width: 31vh;
       position: relative;
-      top: 3vh;
+      top: 0vh;
+      left: 3vh;
+
     }
     
 
@@ -420,7 +423,7 @@ height: 100%;
 
     .div_icone_map {
       background-color: #f2f2f2;
-      width: 14%;
+      width: 9%;
       border-top-left-radius: 29%;
       border-bottom-left-radius: 29%;
     }
@@ -474,7 +477,7 @@ margin-left: 3%;
 
     .div_box_recherche {
       display: flex;
-      height: 8vh;
+      height: 6vh;
       margin-bottom: 2%;
       position: relative;
       left: 2%;
