@@ -221,6 +221,15 @@ color: black;
 }
 
 
+.text_filtre_eco{
+  
+  padding-bottom: 3%;
+  padding-top: 5%;
+  
+}
+
+
+
 .flex_box_filtre{
 
   display: flex; width: 100%;
@@ -272,7 +281,7 @@ border-bottom-left-radius: 29%;
 
 .button_search{
 
-  background-color: blue;
+  background-color: #0065fc;
 border: none;
 border-top-right-radius: 14%;
 border-bottom-right-radius: 13%;
@@ -383,7 +392,7 @@ width: 33%;
 
   .color_icone{
 
-    color:blue;
+    color:#0065fc;
 
   }
 
@@ -489,7 +498,7 @@ height: 25px;
     width: 29%;
     margin-left: 3%;
   
-    height: 92%;
+    height: 82%;
 
     border-radius: 5%;
 
@@ -546,6 +555,8 @@ font-weight: bold;
   .div_star{
 
     display: flex;
+   
+
 
   }
 
@@ -557,7 +568,7 @@ font-weight: bold;
 
   .blue_start{
 
-    color:blue;
+    color:#0065fc;
 
   }
 
@@ -570,7 +581,7 @@ font-weight: bold;
 
   .marge_text_hebergement{
 
-    margin-bottom: 2%;
+    margin-bottom: 3%;
 
   }
 
