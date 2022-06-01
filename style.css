@@ -10,7 +10,7 @@
 
 .link_ins{
 
-  color:blue;
+  color:#0065fc;
 
   text-decoration: none;
 }
@@ -117,7 +117,7 @@ color: black;
 
 .flex_box_hebergement:hover  .bordure_hebergement{
   
-  border-top: 3px solid blue;
+  border-top: 3px solid #0065fc;
 
 }
 
@@ -125,7 +125,7 @@ color: black;
 
 .flex_box_hebergement:hover .link{
   
-  color:blue;
+  color:#0065fc;
 
 }
 
@@ -451,7 +451,7 @@ height: 25px;
 
   .info_icon{
 
-    color: blue;
+    color: #0065fc;
     position: relative;
     left: 35%;
     top: 10%;
@@ -510,9 +510,9 @@ height: 25px;
 
 .card_hergement:hover{
 
-  color:blue;
+  color:#0065fc;
 
-}  
+}
   
 
 
@@ -566,7 +566,7 @@ font-weight: bold;
   }
 
 
-  .blue_start{
+  .#0065fc_start{
 
     color:#0065fc;
 
@@ -673,7 +673,7 @@ font-weight: bold;
 
 .div_text_populaire:hover{
 
-  color:blue;
+  color:#0065fc;
 
 }
 
@@ -812,7 +812,7 @@ margin-left: 4%;
 
 .text_activiter:hover {
 
-  color:blue;
+  color:#0065fc;
 
 }
 
