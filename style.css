@@ -175,7 +175,7 @@ color: black;
  
   width: 100%;
   height: 6vh;
-  font-size: 190%;
+  font-size: 130%;
 
 }
 
@@ -216,7 +216,9 @@ color: black;
 .text_filtre{
   
   padding-bottom: 3%;
-  padding-top: 5%;
+  padding-top: 9%;
+  padding-left: 6%;
+  width: 17vh;
   
 }
 
@@ -225,7 +227,15 @@ color: black;
   
   padding-bottom: 3%;
   padding-top: 5%;
+  position: relative;
+  left: 7%;
+  top: 8%;
   
+}
+
+.width_filtre_eco{
+
+  width:38vh;
 }
 
 
@@ -238,7 +248,7 @@ color: black;
 
 .flex_box_filtre_marge{
 
-  display:flex; margin-right: 8%;
+  display:flex; 
 
 }
 
@@ -384,7 +394,7 @@ width: 33%;
 
     font-size: 22px;
     position: relative;
-    top: 15%;
+    top: 27%;
     left: 26%;
 
 
