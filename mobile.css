@@ -474,7 +474,7 @@ margin-left: 3%;
 
     .div_box_recherche {
       display: flex;
-      height: 8vh;
+      height: 7vh;
       margin-bottom: 2%;
       position: relative;
       left: 2%;
@@ -518,6 +518,14 @@ margin-left: 3%;
 .icone_pop {
   width: 100%;
   padding-top: 111%;
+}
+
+.bordure_icone_fam {
+  border-radius: 30px;
+  background-color: #deebff;
+  width: 57px;
+  position: relative;
+  left: -2%;
 }
 
       }
