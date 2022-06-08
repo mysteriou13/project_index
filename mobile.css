@@ -6,6 +6,8 @@
     margin-right: 0%;
   
     font-family: Raleway;
+
+    overflow-x: none;
   
   }
 
@@ -63,14 +65,14 @@
 
       #populaire {
         background-color: #F2F2F2;
-        width: 100%;
+        width: 117%;
         border-radius: 0px;
 
         
       }
 
       .box_titre_heberement {
-        width: 89%;
+        width: 96%;
         margin-left: 6%;
         position: relative;
         top: 4%;
@@ -87,7 +89,7 @@
 
       .div_populaire {
         display: flex;
-        height: 19vh;
+        height: 26vh;
         background-color: white;
         margin-bottom: 5%;
         border-radius: 6%;
