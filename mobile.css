@@ -36,6 +36,7 @@
 .div_2_footer {
   width: 33%;
   padding-left: 6%;
+  
 }
 
 
@@ -65,7 +66,7 @@
 
       #populaire {
         background-color: #F2F2F2;
-        width: 117%;
+        width: 93%;
         border-radius: 0px;
 
         
@@ -246,7 +247,7 @@
           margin-right: 4%;
           justify-content: space-around;
           position: relative;
-          top: 10%;
+          top: 24%;
           left: 0%;
               
       }
@@ -263,8 +264,8 @@
       .pos__box_ins {
         
         position: relative;
-        top: -80%;
-        left: 53%;
+        top: -115%;
+        left: 214%;
 
       }
 
@@ -493,7 +494,7 @@ margin-left: 3%;
 
       font-size: 1.5em;
 
-      padding-top: 6%;
+      padding-top: 12%;
       padding-bottom: 6%;
 
     }
@@ -529,6 +530,24 @@ margin-left: 3%;
   position: relative;
   left: -2%;
 }
+
+
+.text_act{
+
+  position: relative;
+  left: 135%;
+
+} 
+
+
+.logo {
+  width: 29%;
+  position: relative;
+  top: 34%;
+  left:-5%;
+}
+
+
 
       }
 
