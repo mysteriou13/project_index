@@ -1,5 +1,7 @@
 @media all  and (max-width: 667px){
 
+  html { overflow-x: hidden; }
+
   .body {
   
     margin-left: 0%;
@@ -7,7 +9,7 @@
   
     font-family: Raleway;
 
-    overflow-x: none;
+    position: absolute; width: 100%; overflow-x: hidden
   
   }
 
@@ -265,7 +267,7 @@
         
         position: relative;
         top: -115%;
-        left: 214%;
+        left: 100%;
 
       }
 
@@ -413,7 +415,7 @@ height: 100%;
       border:none;
       border-top: 1px solid #f2f2f2;
   border-bottom: 1px solid #f2f2f2;
-  width: 67%;
+  width: 51%;
   
   left: 30%;
       top: 25%;
