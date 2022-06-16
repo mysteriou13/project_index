@@ -26,6 +26,8 @@
     position: relative;
     left: -2%;
     display: block;
+    height: 54vh;
+
    
 }
 
@@ -415,7 +417,7 @@ height: 100%;
       border:none;
       border-top: 1px solid #f2f2f2;
   border-bottom: 1px solid #f2f2f2;
-  width: 51%;
+  width: 70%;
   
   left: 30%;
       top: 25%;
@@ -483,7 +485,7 @@ margin-left: 3%;
       margin-bottom: 2%;
       position: relative;
       left: 2%;
-      width: 68vh;
+      width: 96%;
     }
 
     .image_logo{
@@ -495,7 +497,7 @@ margin-left: 3%;
 
     .font_size_h1{
 
-      font-size: 1.5em;
+      font-size: 1.7em;
 
       padding-top: 12%;
       padding-bottom: 6%;
@@ -510,14 +512,17 @@ margin-left: 3%;
   top: 5px;
   left: 1%;
   font-size: 1.1em;
+  width: 100%;
 }
 
 
 .div_info {
   border: 2px solid #d9d9d9;
-  width: 28px;
+  width: 24px;
   border-radius: 67%;
   height: 22px;
+  position: relative;
+  top: 5px;
 }
 
 
@@ -551,6 +556,47 @@ margin-left: 3%;
 }
 
 
+#champ_recherche{
 
+  width:100%;
+
+}
+
+.bordure_hebergement {
+  width: 126%;
+  margin-right: -46%;
+  position: relative;
+  left: 122%;
+}
+
+
+.pos_her {
+  width: 126%;
+  margin-right: -46%;
+  position: relative;
+  left: -8%;
+}
+
+
+.bordure_hebergement_act {
+  width: 126%;
+  margin-right: -46%;
+  position: relative;
+  left: 122%;
+}
+
+.box_info{
+
+  width: 100%;
+font-size: 17px;
+
+}
+
+.info_icon {
+  color: #0065fc;
+  position: relative;
+  left: 35%;
+  top: 4%;
+}
       }
 
