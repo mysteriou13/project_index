@@ -32,24 +32,26 @@
 }
 
 .div_1_footer {
-  width: 33%;
-  padding-left: 4%;
+  width: 100%;
+  padding-left: 0%;
 }
 
 
 .div_2_footer {
-  width: 33%;
+  width: 100%;
   padding-left: 6%;
   
 }
 
 
 .div_3_footer {
-  width: 33%;
+  width: 100%;
   padding-left: 6%;
 }
 
-
+.marge_footer {
+  margin-left: 7%;
+}
 
 .box_hebergement_populaire {
   height: 91%;
