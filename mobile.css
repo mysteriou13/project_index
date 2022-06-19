@@ -132,8 +132,11 @@
         width: 84%;
         margin-left: 5%;
         height: 32vh;
-        border-radius: 5%;
+        border-radius: 8%;
         box-shadow: 0px 0px 16px grey;
+        margin-bottom: 4%;
+}
+        
       }
 
 
