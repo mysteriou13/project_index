@@ -360,6 +360,7 @@
         font-weight: bold;
         margin-right: 0%;
         height: 6vh;
+        width: 33vh;
       }
 
       .width_filtre_eco{
@@ -395,7 +396,7 @@ height: 100%;
 
     .width_filtre_rom{
 
-      width: 81%;
+      width: auto;
       height: 100%;
       position: relative;
       left: -3%;
@@ -408,6 +409,7 @@ height: 100%;
       width: 31vh;
       position: relative;
       top: 0vh;
+      left: 3vh;
     }
     
 
