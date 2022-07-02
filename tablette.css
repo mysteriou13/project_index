@@ -360,7 +360,7 @@
         font-weight: bold;
         margin-right: 0%;
         height: 6vh;
-        width: 33vh;
+        width: 35vh;
       }
 
       .link_ins {
@@ -416,36 +416,49 @@ height: 100%;
       width: auto;
       height: 100%;
       position: relative;
-      left: -3%;
+      left: -4%;
 
 
     }
 
     .width_filtre_ani{
 
-      width: 31vh;
+      width: 30vh;
       position: relative;
       top: 0vh;
-      left: 3vh;
+      left: 2vh;
+    
     }
     
+    .bordure_tab_ani{
+
+      width: 58px;
+
+    }
 
     .position_icone {
       font-size: 22px;
       position: relative;
       top: 29%;
-      left: 26%;
+      left: 31%;
     }
 
     .position_icone_fam {
 
       position: relative;
-      left: 34%;
+      left: 31%;
       top: 24%;
       font-size: 1.2em;
   
     }
 
+    .bordure_icone {
+      border-radius: 30px;
+      background-color: #deebff;
+      width: 58px;
+      position: relative;
+      left: -2%;
+    }
 
     .champ_text{
 
