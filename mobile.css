@@ -437,7 +437,7 @@ height: 100%;
       border:none;
       border-top: 1px solid #f2f2f2;
   border-bottom: 1px solid #f2f2f2;
-  width: 70%;
+  width: 100%;
   
   left: 30%;
       top: 25%;
@@ -464,8 +464,19 @@ height: 100%;
       padding-left: 1%;
     }
 
+    .mobile_width_search{
+
+      width: 16%;
+
+    }
+
+    .width_mob_champtext{
+
+      width: 67%;
+
+    }
     .search_loupe {
-      width: 13%;
+      width: 100%;
       border-radius: 28%;
       display: block;
     }
