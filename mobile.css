@@ -1,21 +1,23 @@
 @media only screen and (max-width: 667px) {
 
-  html { overflow-x: hidden; }
-
-  .body {
-  
-    margin-left: 0%;
-    margin-right: 0%;
-  
-    font-family: Raleway;
-
-    position: absolute; width: 100%; overflow-x: hidden
-  
+  html {
+    overflow-x: hidden;
   }
 
-  header{
+  .body {
 
-    height:91vh;
+    margin-left: 0%;
+    margin-right: 0%;
+
+    font-family: Raleway;
+
+    width: 100%;
+    overflow-x: hidden
+  }
+
+  header {
+
+    height: 91vh;
 
   }
 
@@ -28,632 +30,632 @@
     display: block;
 
     height: 73vh;
-   
-}
 
-.div_1_footer {
-  width: 100%;
-  padding-left: 0%;
-  margin-bottom: 8%;
-  padding-top: 6%;
-}
-
-
-.div_2_footer {
-  width: 100%;
-  padding-left: 6%;
-  margin-bottom: 8%;
-}
-
-
-.div_3_footer {
-  width: 100%;
-  padding-left: 6%;
-  margin-bottom: 8%;
-
-}
-
-.marge_footer {
-  margin-left: 7%;
-}
-
-.box_hebergement_populaire {
-  height: 91%;
-  position: relative;
-  left: -5%;
-  width: 97%;
-}
-
-
-    #div_box {
-        height: 100%;
-        display: flex;
-        margin-bottom: 3%;
-        flex-direction: column-reverse;
-        width: 110%;
-      }
-
-
-      #populaire {
-        background-color: #F2F2F2;
-        width: 93%;
-        border-radius: 0px;
-
-        
-      }
-
-      .box_titre_heberement {
-        width: 96%;
-        margin-left: 6%;
-        position: relative;
-        top: 4%;
-        font-weight: bold;
-        height: 94%;
-      }
-
-      .flex_titre_populaire {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 2%;
-        width: 88%;
-      }
-
-      .div_populaire {
-        display: flex;
-        height: 26vh;
-        background-color: white;
-        margin-bottom: 5%;
-        border-radius: 6%;
-      }
-
-
-      .line_box {
-        display: block;
-        height: 100%;
-        margin-bottom: 4%;
-      }
-
-
-      .line_box_2 {
-        display: block;
-        height: 100%;
-        margin-bottom: 4%;
-      }
-
-
-      #hebergement {
-        background-color: white;
-        width: 100%;
-        margin-right: 2%;
-        padding-bottom: 3%;
-        border-radius: 2%;
-      }
-
-
-
-      .card_hergement {
-        background-color: white;
-        width: 84%;
-        margin-left: 5%;
-        height: 32vh;
-        border-radius: 8%;
-        box-shadow: 0px 0px 16px grey;
-        margin-bottom: 4%;
-
-        
-      }
-
-
-      
-      .box_activier {
-        width: 96%;
-        border-radius: 45px;
-        margin-left: 2%;
-      }
-
-
-      .flex_activiter{
-  
-        display: block;
-        width: 100%;
-        justify-content: space-between;
-        margin-bottom: 3%;
-      
-        height: auto;
-
-        margin-left: 0%;
-      
-      }
-
-      .box_activier {
-        width: 96%;
-        border-radius: 45px;
-        margin-left: 2%;
-      }
-
-      .afficher_plus {
-        position: relative;
-        top: 0vh;
-        left: 5vh;
-        font-weight: bold;
-      }
-
-      .div_box_image_act {
-        height: 30vh;
-      }
-
-
-      .box_image_port {
-        height: 78%;
-      }
-
-      .box_fort {
-        height: 30vh;
-        border-radius: 18px;
-        margin-bottom: 9%;
-      }
-
-
-      .box_frioul {
-        height: 30vh;
-        border-radius: 24px;
-      }
-
-      .box_image_frioul {
-        border-radius: 3%;
-        height: 80%;
-      }
-
-      .box_dame {
-        border-radius: 28px;
-        height: 30vh;
-        margin-bottom: 9%;
-      }
-
-      .box_champs {
-        height: 30vh;
-        border-radius: 28px;
-        margin-bottom: 2%;
-      }
-      
-
-      .box_activier {
-        width: 93%;
-        border-radius: 18px;
-        margin-left: 4%;
-        margin-bottom: 9%;
-      }
-
-      .image_hebergement {
-        height: 100%;
-        width: 100%;
-        border-top-left-radius: 17px;
-        border-top-right-radius: 17px;
-        margin-top: 1%;
-      }
-      
-      .image_port {
-        width: 100%;
-        height: 90%;
-        border-top-left-radius: 13px;
-        border-top-right-radius: 13px;
-      }
-
-
-      .text_activiter {
-        font-weight: bold;
-        margin-top: 2%;
-        margin-left: 7%;
-    }
-
-    .box_sadown {
-      box-shadow: 0px 0px 10px grey;
   }
 
-      .flex_box_nav {
-        display: flex;
-        width: auto;
-        justify-content: space-around;
-      }
+  .div_1_footer {
+    width: 100%;
+    padding-left: 0%;
+    margin-bottom: 8%;
+    padding-top: 6%;
+  }
 
 
-      nav {
-      
-        width: auto;
-        height: 63%;
-     
-      }
-
-      .flex_box_nav{
-
-          display: flex;
-          width: 70%;
-          margin-right: 4%;
-          justify-content: space-around;
-          position: relative;
-          top: 24%;
-          left: 0%;
-              
-      }
-  
-      .flex_box_hebergement_act {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        height: 137%;
-        position: relative;
-        left: 34%;
-      }
-
-      .pos__box_ins {
-        
-        position: relative;
-        top: -115%;
-        left: 100%;
-
-      }
-
-      #div_nav {
-        display: block;
-        justify-content: space-between;
-        height: 10vh;
-        position: relative;
-        left: 7%;
-      }
-
-      .flex_box_hebergement {
-        display: flex;
-        flex-direction: column-reverse;
-        justify-content: space-between;
-        height: 55%;
-     
-      }
+  .div_2_footer {
+    width: 100%;
+    padding-left: 6%;
+    margin-bottom: 8%;
+  }
 
 
-      .box_info {
-        
-        display: flex;
-        position: relative;
-        top: 31vh;
-        position: relative;
+  .div_3_footer {
+    width: 100%;
+    padding-left: 6%;
+    margin-bottom: 8%;
 
+  }
 
-        left: 3%;
+  .marge_footer {
+    margin-left: 7%;
+  }
 
-
-      }
-
-      .flex_box_filtre_marge {
-        
-        display: flex;
-        margin-right: 8%;
-        position: relative;
-        top: 9vh;
-        left: -4%;
-        width: 100%;
-          height: 100%;
-
-      }
-
-
-      .flex_box_filtre {
-        display: block;
-        width: 100%;
-      }
-
-
-      .box_filtre {
-        font-size: 2.5vh;
-      }
-
-      .div_filtre_2{
-
-        display: block;
-        position: relative;
-        
-        top: 12vh;
-      
-      }
-
-
-      .div_filtre {
-        display: flex;
-        border: 1px solid #d9d9d9;
-        border-radius: 30px;
-        padding-right: 2%;
-        font-weight: bold;
-        margin-right: 0%;
-        height: 6vh;
-      }
-
-      .width_filtre_eco{
-
-  
-        display: flex;
-        border: 1px solid #d9d9d9;
-        border-radius: 30px;
-        padding-right: 2%;
-        font-weight: bold;
-        margin-right: 0%;
-        height: 100%;
-        width: 49%;
-      
-    }
-
-    .width_filtre_fam{
-
-      position: relative;
-left: 3%;
-width:42%;
-height: 100%;
-
-
-    }
-
-
-    .text_filtre {
-      padding-bottom: 3%;
-      padding-top: 6%;
-      padding-left: 2%;
-    }
-
-    .width_filtre_rom{
-
-      width: 50%;
-      height: 100%;
-      position: relative;
-      left: -3%;
-
-
-    }
-
-    .width_filtre_ani{
-
-      width: 31vh;
-      position: relative;
-      top: 3vh;
-    }
-    
-
-    .position_icone {
-      font-size: 22px;
-      position: relative;
-      top: 29%;
-      left: 26%;
-    }
-
-    .position_icone_fam {
-
-      position: relative;
-      left: 34%;
-      top: 24%;
-      font-size: 1.2em;
-  
-    }
-
-
-    .champ_text{
-
-      border:none;
-      border-top: 1px solid #f2f2f2;
-  border-bottom: 1px solid #f2f2f2;
-  width: 100%;
-  
-  left: 30%;
-      top: 25%;
-  
-    }
-  
-
-    .div_icone_map {
-      background-color: #f2f2f2;
-      width: 14%;
-      border-top-left-radius: 29%;
-      border-bottom-left-radius: 29%;
-    }
-
-    .button_search {
-      background-color: blue;
-      border: none;
-      border-top-right-radius: 14%;
-      border-bottom-right-radius: 13%;
-      color: white;
-      font-weight: bold;
-      display: none;
-      padding-right: 1%;
-      padding-left: 1%;
-    }
-
-    .mobile_width_search{
-
-      width: 16%;
-
-    }
-
-    .width_mob_champtext{
-
-      width: 67%;
-
-    }
-    .search_loupe {
-      width: 100%;
-      border-radius: 28%;
-      display: block;
-    }
-
-
-    .haut_titre{
-
-      font-size: 87%;
-margin-left: 3%;
-
-    }
-
-    .sous_titre{
-
-      position: relative;
-     left: 3%;
-     top: -23px;
-
-
-    }
-
-    .titre_div_filtre {
-      width: 4%;
-      height: 12%;
-      position: relative;
-      top: 12px;
-      font-weight: bold;
-      font-size: 1.3em;
-      margin-right: 2%;
-      position: relative;
-      left: 3%;
-    }
-
-    .div_box_recherche {
-      display: flex;
-      height: 7vh;
-      margin-bottom: 2%;
-      position: relative;
-      left: 2%;
-      width: 96%;
-    }
-
-    .image_logo{
-  
+  .box_hebergement_populaire {
+    height: 91%;
     position: relative;
-     left: -4%;
-
-    }
-
-    .font_size_h1{
-
-      font-size: 1.7em;
-
-      padding-top: 12%;
-      padding-bottom: 6%;
-
-    }
+    left: -5%;
+    width: 97%;
+  }
 
 
+  #div_box {
+    height: 100%;
+    display: flex;
+    margin-bottom: 3%;
+    flex-direction: column-reverse;
+    width: 110%;
+  }
 
 
-.text_info {
-  position: relative;
-  top: 5px;
-  left: 1%;
-  font-size: 1.1em;
-  width: 100%;
-}
+  #populaire {
+    background-color: #F2F2F2;
+    width: 93%;
+    border-radius: 0px;
 
 
-.div_info {
-  border: 2px solid #d9d9d9;
-  width: 24px;
-  border-radius: 67%;
-  height: 22px;
-  position: relative;
-  top: 5px;
-}
+  }
+
+  .box_titre_heberement {
+    width: 96%;
+    margin-left: 6%;
+    position: relative;
+    top: 4%;
+    font-weight: bold;
+    height: 94%;
+  }
+
+  .flex_titre_populaire {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2%;
+    width: 88%;
+  }
+
+  .div_populaire {
+    display: flex;
+    height: 26vh;
+    background-color: white;
+    margin-bottom: 5%;
+    border-radius: 6%;
+  }
 
 
-.icone_pop {
-  width: 100%;
-  padding-top: 111%;
-}
-
-.bordure_icone_fam {
-  border-radius: 30px;
-  background-color: #deebff;
-  width: 57px;
-  position: relative;
-  left: -2%;
-}
+  .line_box {
+    display: block;
+    height: 100%;
+    margin-bottom: 4%;
+  }
 
 
-.text_act{
-
-  position: relative;
-  left: 135%;
-
-} 
-
-
-.logo {
-  width: 29%;
-  position: relative;
-  top: 34%;
-  left:-5%;
-}
+  .line_box_2 {
+    display: block;
+    height: 100%;
+    margin-bottom: 4%;
+  }
 
 
-#champ_recherche{
-
-  width:100%;
-
-}
-
-.bordure_hebergement {
-  width: 226%;
-  margin-right: -46%;
-  position: relative;
-  left: 29%;
-}
+  #hebergement {
+    background-color: white;
+    width: 100%;
+    margin-right: 2%;
+    padding-bottom: 3%;
+    border-radius: 2%;
+  }
 
 
-.pos_her {
-  width: 157%;
-  margin-right: -46%;
-  position: relative;
-  left: -8%;
-}
+
+  .card_hergement {
+    background-color: white;
+    width: 84%;
+
+    height: 32vh;
+    border-radius: 8%;
+    box-shadow: 0px 0px 16px grey;
+    margin-bottom: 4%;
 
 
-.bordure_hebergement_act {
-  width: 126%;
-  margin-right: -46%;
-  position: relative;
-  left: 122%;
-}
+  }
 
-.box_info{
 
-  width: 100%;
-font-size: 17px;
 
-}
+  .box_activier {
+    width: 96%;
+    border-radius: 45px;
+    margin-left: 2%;
+  }
 
-.info_icon {
-  color: #0065fc;
-  position: relative;
-  left: 35%;
-  top: 4%;
-}
 
-.titre_pop{
+  .flex_activiter {
 
-  position: relative;
+    display: block;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 3%;
+
+    height: auto;
+
+    margin-left: 0%;
+
+  }
+
+  .box_activier {
+    width: 96%;
+    border-radius: 45px;
+    margin-left: 2%;
+  }
+
+  .afficher_plus {
+    position: relative;
+    top: 0vh;
+    left: 5vh;
+    font-weight: bold;
+  }
+
+  .div_box_image_act {
+    height: 30vh;
+  }
+
+
+  .box_image_port {
+    height: 78%;
+  }
+
+  .box_fort {
+    height: 30vh;
+    border-radius: 18px;
+    margin-bottom: 9%;
+  }
+
+
+  .box_frioul {
+    height: 30vh;
+    border-radius: 24px;
+  }
+
+  .box_image_frioul {
+    border-radius: 3%;
+    height: 80%;
+  }
+
+  .box_dame {
+    border-radius: 28px;
+    height: 30vh;
+    margin-bottom: 9%;
+  }
+
+  .box_champs {
+    height: 30vh;
+    border-radius: 28px;
+    margin-bottom: 2%;
+  }
+
+
+  .box_activier {
+    width: 93%;
+    border-radius: 18px;
+    margin-left: 4%;
+    margin-bottom: 9%;
+  }
+
+  .image_hebergement {
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+    margin-top: 1%;
+  }
+
+  .image_port {
+    width: 100%;
+    height: 90%;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+  }
+
+
+  .text_activiter {
+    font-weight: bold;
+    margin-top: 2%;
+    margin-left: 7%;
+  }
+
+  .box_sadown {
+    box-shadow: 0px 0px 10px grey;
+  }
+
+  .flex_box_nav {
+    display: flex;
+    width: auto;
+    justify-content: space-around;
+  }
+
+
+  nav {
+
+    width: auto;
+    height: 63%;
+
+  }
+
+  .flex_box_nav {
+
+    display: flex;
+    width: 70%;
+    margin-right: 4%;
+    justify-content: space-around;
+    position: relative;
+    top: 24%;
+    left: 0%;
+
+  }
+
+  .flex_box_hebergement_act {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 137%;
+    position: relative;
+    left: 34%;
+  }
+
+  .pos__box_ins {
+
+    position: relative;
+    top: -115%;
+    left: 100%;
+
+  }
+
+  #div_nav {
+    display: block;
+    justify-content: space-between;
+    height: 10vh;
+    position: relative;
+    left: 7%;
+  }
+
+  .flex_box_hebergement {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    height: 55%;
+
+  }
+
+
+  .box_info {
+
+    display: flex;
+    position: relative;
+    top: 31vh;
+    position: relative;
+
+
+    left: 3%;
+
+
+  }
+
+  .flex_box_filtre_marge {
+
+    display: flex;
+    margin-right: 8%;
+    position: relative;
+    top: 9vh;
+    left: -4%;
+    width: 100%;
+    height: 100%;
+
+  }
+
+
+  .flex_box_filtre {
+    display: block;
+    width: 100%;
+  }
+
+
+  .box_filtre {
+    font-size: 2.5vh;
+  }
+
+  .div_filtre_2 {
+
+    display: block;
+    position: relative;
+
+    top: 12vh;
+
+  }
+
+
+  .div_filtre {
+    display: flex;
+    border: 1px solid #d9d9d9;
+    border-radius: 30px;
+    padding-right: 2%;
+    font-weight: bold;
+    margin-right: 0%;
+    height: 6vh;
+  }
+
+  .width_filtre_eco {
+
+
+    display: flex;
+    border: 1px solid #d9d9d9;
+    border-radius: 30px;
+    padding-right: 2%;
+    font-weight: bold;
+    margin-right: 0%;
+    height: 100%;
+    width: 49%;
+
+  }
+
+  .width_filtre_fam {
+
+    position: relative;
+    left: 3%;
+    width: 42%;
+    height: 100%;
+
+
+  }
+
+
+  .text_filtre {
+    padding-bottom: 3%;
+    padding-top: 6%;
+    padding-left: 2%;
+  }
+
+  .width_filtre_rom {
+
+    width: 50%;
+    height: 100%;
+    position: relative;
     left: -3%;
 
-}
 
-.titre_activiter{
+  }
 
-  position: relative;
+  .width_filtre_ani {
+
+    width: 31vh;
+    position: relative;
+    top: 3vh;
+  }
+
+
+  .position_icone {
+    font-size: 22px;
+    position: relative;
+    top: 29%;
+    left: 26%;
+  }
+
+  .position_icone_fam {
+
+    position: relative;
+    left: 34%;
+    top: 24%;
+    font-size: 1.2em;
+
+  }
+
+
+  .champ_text {
+
+    border: none;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    width: 100%;
+
+    left: 30%;
+    top: 25%;
+
+  }
+
+
+  .div_icone_map {
+    background-color: #f2f2f2;
+    width: 14%;
+    border-top-left-radius: 29%;
+    border-bottom-left-radius: 29%;
+  }
+
+  .button_search {
+    background-color: blue;
+    border: none;
+    border-top-right-radius: 14%;
+    border-bottom-right-radius: 13%;
+    color: white;
+    font-weight: bold;
+    display: none;
+    padding-right: 1%;
+    padding-left: 1%;
+  }
+
+  .mobile_width_search {
+
+    width: 16%;
+
+  }
+
+  .width_mob_champtext {
+
+    width: 67%;
+
+  }
+
+  .search_loupe {
+    width: 100%;
+    border-radius: 28%;
+    display: block;
+  }
+
+
+  .haut_titre {
+
+    font-size: 87%;
+    margin-left: 3%;
+
+  }
+
+  .sous_titre {
+
+    position: relative;
+    left: 3%;
+    top: -23px;
+
+
+  }
+
+  .titre_div_filtre {
+    width: 4%;
+    height: 12%;
+    position: relative;
+    top: 12px;
+    font-weight: bold;
+    font-size: 1.3em;
+    margin-right: 2%;
+    position: relative;
+    left: 3%;
+  }
+
+  .div_box_recherche {
+    display: flex;
+    height: 7vh;
+    margin-bottom: 2%;
+    position: relative;
+    left: 2%;
+    width: 96%;
+  }
+
+  .image_logo {
+
+    position: relative;
+    left: -4%;
+
+  }
+
+  .font_size_h1 {
+
+    font-size: 1.7em;
+
+    padding-top: 12%;
+    padding-bottom: 6%;
+
+  }
+
+
+
+
+  .text_info {
+    position: relative;
+    top: 5px;
+    left: 1%;
+    font-size: 1.1em;
+    width: 100%;
+  }
+
+
+  .div_info {
+    border: 2px solid #d9d9d9;
+    width: 24px;
+    border-radius: 67%;
+    height: 22px;
+    position: relative;
+    top: 5px;
+  }
+
+
+  .icone_pop {
+    width: 100%;
+    padding-top: 111%;
+  }
+
+  .bordure_icone_fam {
+    border-radius: 30px;
+    background-color: #deebff;
+    width: 57px;
+    position: relative;
+    left: -2%;
+  }
+
+
+  .text_act {
+
+    position: relative;
+    left: 135%;
+
+  }
+
+
+  .logo {
+    width: 29%;
+    position: relative;
+    top: 34%;
+    left: -5%;
+  }
+
+
+  #champ_recherche {
+
+    width: 100%;
+
+  }
+
+  .bordure_hebergement {
+    width: 226%;
+    margin-right: -46%;
+    position: relative;
+    left: 29%;
+  }
+
+
+  .pos_her {
+    width: 157%;
+    margin-right: -46%;
+    position: relative;
+    left: -8%;
+  }
+
+
+  .bordure_hebergement_act {
+    width: 126%;
+    margin-right: -46%;
+    position: relative;
+    left: 122%;
+  }
+
+  .box_info {
+
+    width: 100%;
+    font-size: 17px;
+
+  }
+
+  .info_icon {
+    color: #0065fc;
+    position: relative;
+    left: 35%;
+    top: 4%;
+  }
+
+  .titre_pop {
+
+    position: relative;
+    left: -3%;
+
+  }
+
+  .titre_activiter {
+
+    position: relative;
     left: 6%;
 
+  }
+
+  .titre_div_1_footer {
+
+    font-weight: bold;
+    margin-bottom: 7%;
+
+  }
+
+
+
+
+
 }
-
-.titre_div_1_footer{
-
-  font-weight: bold;
-  margin-bottom: 7%;
-
-}
-
-
-
-
-
-      }
-
